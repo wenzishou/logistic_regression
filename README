@@ -1,0 +1,3 @@
+# logistic regression
+
+logistic_regression.py  在模型输出后加非线性映射，用于控制模型输出预估值的方差, 其中实验发现不仅可以控制方差，对模型的auc效果也有提升
